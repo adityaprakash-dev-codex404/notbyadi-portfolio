@@ -24,3 +24,6 @@ dist-ssr
 *.sw?
 ref_*
 reference_page.html
+
+.vercel
+.env*
